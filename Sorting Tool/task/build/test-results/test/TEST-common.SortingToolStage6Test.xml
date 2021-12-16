@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="common.SortingToolStage6Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-15T13:25:27" hostname="MATERIAL" time="0.34">
+  <properties/>
+  <testcase name="start" classname="common.SortingToolStage6Test" time="0.34"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+> 1 -2   333 4
+> 42
+> 1                 1
+Total numbers: 7.
+Sorted data: -2 1 1 1 4 42 333
+?[1;31m
+Start test 2?[0m
+> 1 -2   333 4
+> 42
+> 1                 1
+Total numbers: 7.
+Sorted data: -2 1 1 1 4 42 333
+?[1;31m
+Start test 3?[0m
+> 1 -2   333 4
+> 42
+> 1                 1
+Total numbers: 7.
+-2: 1 time(s), 14%.
+4: 1 time(s), 14%.
+42: 1 time(s), 14%.
+333: 1 time(s), 14%.
+1: 3 time(s), 43%.
+?[1;31m
+Start test 4?[0m
+> 1 -2   333 4
+> 42
+> 1                 1
+Total words: 7.
+-2: 1 time(s), 14%.
+333: 1 time(s), 14%.
+4: 1 time(s), 14%.
+42: 1 time(s), 14%.
+1: 3 time(s), 43%.
+?[1;31m
+Start test 5?[0m
+> 1 -2   333 4
+> 42
+> 42
+> 1                 1
+Total lines: 4.
+1                 1: 1 time(s), 25%.
+1 -2   333 4: 1 time(s), 25%.
+42: 2 time(s), 50%.
+?[1;31m
+Start test 6?[0m
+> 1111 1111
+> 22222
+> 3
+> 44
+Total lines: 4.
+1111 1111: 1 time(s), 25%.
+22222: 1 time(s), 25%.
+3: 1 time(s), 25%.
+44: 1 time(s), 25%.
+?[1;31m
+Start test 7?[0m
+> 1111 1111
+> 22222
+> 3
+> 44
+Total words: 5.
+22222: 1 time(s), 20%.
+3: 1 time(s), 20%.
+44: 1 time(s), 20%.
+1111: 2 time(s), 40%.
+?[1;31m
+Start test 8?[0m
+> 1111 1111
+> 22222
+> 3
+> 44
+Total numbers: 5.
+3: 1 time(s), 20%.
+44: 1 time(s), 20%.
+22222: 1 time(s), 20%.
+1111: 2 time(s), 40%.
+?[1;31m
+Start test 9?[0m
+No sorting type defined!
+> 1 -2   333 4
+> 42
+> 1                 1
+Total words: 7.
+Sorted data: -2 1 1 1 333 4 42
+?[1;31m
+Start test 10?[0m
+-abc is not a valid parameter. It will be skipped.> 1 -2   333 4
+> 42
+> 1                 1
+Total numbers: 7.
+-2: 1 time(s), 14%.
+4: 1 time(s), 14%.
+42: 1 time(s), 14%.
+333: 1 time(s), 14%.
+1: 3 time(s), 43%.
+?[1;31m
+Start test 11?[0m
+-cde is not a valid parameter. It will be skipped.> 1111 1111
+> 22222
+> 3
+> 44
+Total lines: 4.
+1111 1111: 1 time(s), 25%.
+22222: 1 time(s), 25%.
+3: 1 time(s), 25%.
+44: 1 time(s), 25%.
+?[1;31m
+Start test 12?[0m
+No sorting type defined!
+> 1111 1111
+> 22222
+> 3
+> 44
+Total lines: 4.
+Sorted data:
+1111 1111
+22222
+3
+44
+?[1;31m
+Start test 13?[0m
+input.txt is not a valid parameter. It will be skipped.Total words: 1.
+input.txt: 1 time(s), 100%.
+?[1;31m
+Start test 14?[0m
+data.dat is not a valid parameter. It will be skipped.out.txt is not a valid parameter. It will be skipped.Total words: 1.
+data.dat: 1 time(s), 100%.
+?[1;31m
+Start test 15?[0m
+input.txt is not a valid parameter. It will be skipped.Total words: 1.
+Sorted data: input.txt
+?[1;31m
+Start test 16?[0m
+data.dat is not a valid parameter. It will be skipped.out.txt is not a valid parameter. It will be skipped.Total words: 1.
+Sorted data: data.dat
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

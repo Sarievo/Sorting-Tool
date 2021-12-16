@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting_Tool.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting_Tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/classes/kotlin/Sorting_Tool.Sorting_Tool-task-build-classes-kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/classes/kotlin/Sorting_Tool.Sorting_Tool-task-build-classes-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/classes/kotlin/Sorting_Tool.Sorting_Tool-task-build-classes-kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/classes/kotlin/Sorting_Tool.Sorting_Tool-task-build-classes-kotlin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/classes/kotlin/Sorting_Tool.Sorting_Tool-task-build-classes-kotlin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/classes/kotlin/Sorting_Tool.Sorting_Tool-task-build-classes-kotlin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/reports/tests/Sorting_Tool.Sorting_Tool-task-build-reports-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/reports/tests/Sorting_Tool.Sorting_Tool-task-build-reports-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/reports/tests/Sorting_Tool.Sorting_Tool-task-build-reports-tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/reports/tests/Sorting_Tool.Sorting_Tool-task-build-reports-tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/reports/tests/Sorting_Tool.Sorting_Tool-task-build-reports-tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/reports/tests/Sorting_Tool.Sorting_Tool-task-build-reports-tests.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/test-results/Sorting_Tool.Sorting_Tool-task-build-test-results.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/test-results/Sorting_Tool.Sorting_Tool-task-build-test-results.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/test-results/Sorting_Tool.Sorting_Tool-task-build-test-results.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/test-results/Sorting_Tool.Sorting_Tool-task-build-test-results.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/test-results/Sorting_Tool.Sorting_Tool-task-build-test-results.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/test-results/Sorting_Tool.Sorting_Tool-task-build-test-results.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/tmp/Sorting_Tool.Sorting_Tool-task-build-tmp.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/tmp/Sorting_Tool.Sorting_Tool-task-build-tmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/tmp/Sorting_Tool.Sorting_Tool-task-build-tmp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/tmp/Sorting_Tool.Sorting_Tool-task-build-tmp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/tmp/Sorting_Tool.Sorting_Tool-task-build-tmp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/build/tmp/Sorting_Tool.Sorting_Tool-task-build-tmp.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sorting Tool/task/Sorting_Tool.Sorting_Tool-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Sorting_Tool.util.test.iml" />
+    </modules>
+  </component>
+</project>

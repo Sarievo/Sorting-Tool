@@ -503,6 +503,13 @@ files:
 
 
   learner_created: false
-feedback_link: https://hyperskill.org/projects/45/stages/244/implement#comment
-status: Unchecked
+- name: out.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5386#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Wed, 15 Dec 2021 13:25:28 UTC
 record: -1

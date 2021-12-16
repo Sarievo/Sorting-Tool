@@ -149,6 +149,9 @@ files:
         return CheckResult(true)
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/45/stages/239/implement#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/learn/step/5613#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 15 Dec 2021 09:03:24 UTC
+record: 1
